@@ -1,0 +1,58 @@
+{
+  "name": "frontend-reactjs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "./",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx",
+    "preview": "vite preview",
+    "update": "ncu -x tailwindcss,postcss -u && rimraf node_modules package-lock.json && npm install",
+    "optionalupdate": "ncu -x tailwindcss,postcss -u && (if exist node_modules rmdir /s /q node_modules) && (if exist package-lock.json del /f /q package-lock.json) && npm install",
+    "format": "prettier --write .",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "framer-motion": "^12.23.12",
+    "react": "^19.1.0",
+    "react-confetti": "^6.4.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.8.0",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.5",
+    "@types/react-router-dom": "^5.3.3",
+    "@typescript-eslint/eslint-plugin": "^8.33.1",
+    "@typescript-eslint/parser": "^8.33.1",
+    "@vitejs/plugin-react": "^4.5.1",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.28.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.2.0",
+    "husky": "^9.1.7",
+    "npm-check-updates": "^18.0.1",
+    "postcss": "^8.5.6",
+    "prettier": "^3.5.3",
+    "rimraf": "^6.0.1",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.33.1",
+    "vite": "^6.3.5"
+  },
+  "lint-staged": {
+    "src/**/*.{ts,js,tsx,jsx,css,json,md}": [
+      "prettier --write",
+      "eslint --fix",
+      "git add ."
+    ]
+  }
+}
