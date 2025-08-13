@@ -7,8 +7,9 @@ const quickLinks = [
   { to: "/hiragana", label: "Hiragana" },
   { to: "/katakana", label: "Katakana" },
   { to: "/kanji", label: "Kanji" },
-  { to: "/N/A", label: "Grammar" },
-  { to: "/N/A", label: "Listening" },
+  { to: "/vocabulary", label: "Vocabulary" },
+  { to: "/grammar", label: "Grammar" },
+  { to: "/listening", label: "Listening" },
   { to: "/N/A", label: "Writing" },
   { to: "/progress", label: "Progress" },
 ];
@@ -16,10 +17,10 @@ const quickLinks = [
 const Footer: React.FC = () => {
   return (
     <footer className="border-t border-gray-300 dark:border-[#072032] py-8 select-none">
-      <div className="container mx-auto px-5 grid grid-cols-1 md:grid-cols-3 gap-8 text-gray-700 dark:text-gray-300 text-center md:text-left">
+      <div className="container mx-auto px-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 text-gray-700 dark:text-gray-300">
         
         {/* About */}
-        <div>
+        <div className="text-center sm:text-left">
           <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
             Nihongo Practice
           </h3>
@@ -30,30 +31,30 @@ const Footer: React.FC = () => {
         </div>
 
         {/* Quick Links */}
-        <div>
+        <div className="text-center sm:text-left">
           <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
             Quick Links
           </h3>
           <nav aria-label="Footer Navigation">
-            <ul className="grid grid-cols-1 sm:grid-cols-2 gap-y-2 text-sm sm:text-base">
-              {quickLinks.map(({ to, label }) => (
-                <li key={label}>
-                  <Link
-                    to={to}
-                    onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-                    className="flex items-center justify-center md:justify-start gap-2 hover:text-[#FA4B00] transition duration-300"
-                  >
-                    <FaChevronCircleRight aria-hidden="true" />
-                    {label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            <ul className="grid grid-cols-3 gap-y-2 gap-x-6 text-sm sm:text-base justify-center sm:justify-start">
+  {quickLinks.map(({ to, label }) => (
+    <li key={label}>
+      <Link
+        to={to}
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        className="flex items-center justify-center sm:justify-start gap-2 hover:text-[#FA4B00] transition duration-300"
+      >
+        <FaChevronCircleRight aria-hidden="true" />
+        {label}
+      </Link>
+    </li>
+  ))}
+</ul>
           </nav>
         </div>
 
         {/* Fun Japanese Fact */}
-        <div className="bg-gray-100 dark:bg-[#0d1b2a] p-4 rounded-lg shadow-md">
+        <div className="bg-gray-100 dark:bg-[#0d1b2a] p-4 rounded-lg shadow-md text-center sm:text-left">
           <h3 className="text-lg font-semibold mb-2 text-gray-900 dark:text-white">
             🎌 Fun Japanese Fact
           </h3>

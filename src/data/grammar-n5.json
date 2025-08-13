@@ -1,0 +1,2079 @@
+[
+  {
+    "lesson": 1,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Sentences without a main verb end with です.",
+        "description": "The word です itself does not carry meaning; it functions as a polite sentence-ending copula. After the subject, the topic particle は always appears. Although written は, it is pronounced 'wa' when used as a particle.",
+        "examples": [
+          {
+            "japanese": "わたし は ミラー です。",
+            "romaji": "Watashi wa Miraa desu.",
+            "english": "I am Mira.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "In Japanese, です adds politeness but does not translate directly into English. The topic particle は marks what the sentence is about, and its pronunciation changes to 'wa' when used as a particle."
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Add か after です to make a question.",
+        "description": "To form a yes/no or information question, add か after です without changing word order. The voice should rise slightly at the end.",
+        "examples": [
+          {
+            "japanese": "あのかた は どなた ですか。",
+            "romaji": "Ano kata wa donata desu ka?",
+            "english": "Who are you?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "あなた は がくせい ですか。",
+            "romaji": "Anata wa gakusei desu ka?",
+            "english": "Are you a student?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "たなかさん は せんせい ですか。",
+            "romaji": "Tanaka-san wa sensei desu ka?",
+            "english": "Is Mr. Tanaka a teacher?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "The question particle か always appears at the end of a question in polite speech. The honorific さん (san) is a respectful title used after a person's name."
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Use じゃありません or ではありません to make negative sentences.",
+        "description": "Negative polite sentences use either じゃありません (more casual) or ではありません (more formal). Both mean 'is not'.",
+        "examples": [
+          {
+            "japanese": "ミラーさん は いしゃ じゃありません。",
+            "romaji": "Miraa-san wa isha ja arimasen.",
+            "english": "Mr. Mira is not a doctor.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "もりさん は かいしゃいん ではありません。",
+            "romaji": "Mori-san wa kaishain dewa arimasen.",
+            "english": "Mr. Mori is not a company employee.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "じゃありません is often used in conversation, while ではありません is more formal and common in speeches or writing."
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Use the particle も to mean 'also' or 'too'.",
+        "description": "When you want to express 'also' or 'too' for something or someone, use も in place of another particle in that position. Only one particle can be used in the same grammatical slot.",
+        "examples": [
+          {
+            "japanese": "あなた も かいしゃいん ですか。 はい、 わたし も かいしゃいん です。",
+            "romaji": "Anata mo kaishain desu ka? Hai, watashi mo kaishain desu.",
+            "english": "Are you also an employee? Yes, I am also an employee.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "The particle も completely replaces は or が when used. It cannot be stacked with them."
+      },
+      {
+        "ruleNumber": 5,
+        "title": "Use the particle の to show possession or relationship.",
+        "description": "The particle の shows possession or association, similar to 'of' or the English possessive 's'. It connects two nouns.",
+        "examples": [
+          {
+            "japanese": "わたし の ほん です。",
+            "romaji": "Watashi no hon desu.",
+            "english": "It is my book.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ミラーさん は がっこう の せんせい です。",
+            "romaji": "Miraa-san wa gakkou no sensei desu.",
+            "english": "Mr. Mira is a teacher at the school.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "The structure is [Owner/Relation] の [Noun]. For example, '日本 の 車' (Nihon no kuruma) means 'car from Japan' or 'Japanese car'."
+      }
+    ]
+  },
+  {
+    "lesson": 2,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Usage of これ, それ, あれ",
+        "description": "これ (this) is used when the object is close to the speaker. それ (that) is used when the object is close to the listener. あれ (that over there) is used when the object is far from both the speaker and the listener.",
+        "examples": [
+          {
+            "japanese": "これ は とけい です。",
+            "romaji": "Kore wa tokei desu.",
+            "english": "This is a clock.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "それ は あなた の ですか。",
+            "romaji": "Sore wa anata no desu ka?",
+            "english": "Is that yours?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "あれ は がっこう です。",
+            "romaji": "Are wa gakkou desu.",
+            "english": "That is a school.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Note: これ, それ, and あれ function like pronouns and are not followed directly by a noun."
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Usage of the particle の",
+        "description": "The particle の is used to indicate possession or relation, similar to 'of' or the possessive '’s' in English.",
+        "examples": [
+          {
+            "japanese": "わたし の ほん です。",
+            "romaji": "Watashi no hon desu.",
+            "english": "It is my book.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "やまださん の かばん です。",
+            "romaji": "Yamada-san no kaban desu.",
+            "english": "It is Mr. Yamada’s bag.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Note: の connects two nouns; the first noun indicates the owner or related item."
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Usage of この, その, あの",
+        "description": "この (this...), その (that...), and あの (that... over there) are always followed by a noun. They function like adjectives modifying a noun, unlike これ, それ, and あれ which stand alone.",
+        "examples": [
+          {
+            "japanese": "この じしょ は わたし の です。",
+            "romaji": "Kono jisho wa watashi no desu.",
+            "english": "This dictionary is mine.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "その かぎ は くるま の です。",
+            "romaji": "Sono kagi wa kuruma no desu.",
+            "english": "That key is for the car.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "あの びょういん は どうぶつ の です。",
+            "romaji": "Ano byouin wa doubutsu no desu.",
+            "english": "That hospital is for animals.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Note: この, その, and あの must be followed by a noun; they cannot be used alone."
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Usage of そうです",
+        "description": "そうです means 'Yes, that’s right' or 'That is correct.' It is used to confirm or agree with information given by the other person.",
+        "examples": [
+          {
+            "japanese": "これ は じしょ ですか。",
+            "romaji": "Kore wa jisho desu ka?",
+            "english": "Is this a dictionary?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "はい、そうです。",
+            "romaji": "Hai, sou desu.",
+            "english": "Yes, it is.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Note: そうです is a polite and common way to confirm information."
+      },
+      {
+        "ruleNumber": 5,
+        "title": "Usage of そうじゃありません and ちがいます",
+        "description": "そうじゃありません means 'No, it is not' and is the polite negative form of そうです. ちがいます means 'No, that’s wrong' or 'That’s incorrect.'",
+        "examples": [
+          {
+            "japanese": "それ は テレホンカード ですか。",
+            "romaji": "Sore wa terehon kaado desu ka?",
+            "english": "Is that a telephone card?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "いいえ、そうじゃありません。",
+            "romaji": "Iie, sou ja arimasen.",
+            "english": "No, it is not.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "いいえ、ちがいます。",
+            "romaji": "Iie, chigaimasu.",
+            "english": "No, that’s wrong.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Note: そうじゃありません is more formal, while ちがいます is common in everyday conversation."
+      },
+      {
+        "ruleNumber": 6,
+        "title": "Usage of そうですか",
+        "description": "そうですか means 'I see' or 'Is that so?' It is used to respond when hearing new information.",
+        "examples": [
+          {
+            "japanese": "この かさ は たなかさん の ですか。",
+            "romaji": "Kono kasa wa Tanaka-san no desu ka?",
+            "english": "Is this umbrella Mr. Tanaka’s?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "いいえ、ちがいます。その かさ は やまださん の です。",
+            "romaji": "Iie, chigaimasu. Sono kasa wa Yamada-san no desu.",
+            "english": "No, that’s wrong. That umbrella is Mr. Yamada’s.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "そうですか。",
+            "romaji": "Sou desu ka.",
+            "english": "I see.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Note: そうですか can also express surprise, interest, or polite acknowledgment."
+      }
+    ]
+  },
+  {
+    "lesson": 3,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "ここ, そこ, あそこ (Location Words)",
+        "description": "ここ is used for a place near the speaker. そこ is used for a place near the listener. あそこ is used for a place far from both the speaker and the listener.",
+        "examples": [
+          {
+            "japanese": "がっこう は どこ ですか。",
+            "romaji": "Gakkou wa doko desu ka?",
+            "english": "Where is the school?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "あそこ です。",
+            "romaji": "Asoko desu.",
+            "english": "It is over there.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "おてあらい は どこ ですか。",
+            "romaji": "Otearai wa doko desu ka?",
+            "english": "Where is the toilet?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ここ です。",
+            "romaji": "Koko desu.",
+            "english": "It is here.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ここ は じむしょ です。",
+            "romaji": "Koko wa jimusho desu.",
+            "english": "This is the office.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "そこ は トイレ です。",
+            "romaji": "Soko wa toire desu.",
+            "english": "That is the toilet.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "あそこ は えき です。",
+            "romaji": "Asoko wa eki desu.",
+            "english": "That is the station.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ミラーさん は あそこ です。",
+            "romaji": "Miraa-san wa asoko desu.",
+            "english": "Mr. Miller is over there.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Use ここ, そこ, and あそこ to indicate locations relative to the speaker and listener. They are nouns and can be used directly without another noun following."
+      },
+      {
+        "ruleNumber": 2,
+        "title": "どこ vs どちら (Asking Location Politely)",
+        "description": "Both どこ and どちら mean 'where'. どちら is more polite than どこ. Similarly, the polite forms of ここ, そこ, and あそこ are こちら, そちら, and あちら respectively.",
+        "examples": [
+          {
+            "japanese": "うけつけ は どこ ですか。",
+            "romaji": "Uketsuke wa doko desu ka?",
+            "english": "Where is the reception desk?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "あそこ です。",
+            "romaji": "Asoko desu.",
+            "english": "It is over there.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "きょうしつ は どちら ですか。",
+            "romaji": "Kyoushitsu wa dochira desu ka?",
+            "english": "Where is the classroom?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "あちら です。",
+            "romaji": "Achira desu.",
+            "english": "It is over there.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "しょくどう は どこ ですか。",
+            "romaji": "Shokudou wa doko desu ka?",
+            "english": "Where is the cafeteria?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ここ です。",
+            "romaji": "Koko desu.",
+            "english": "It is here.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "おてあらい は どちら ですか。",
+            "romaji": "Otearai wa dochira desu ka?",
+            "english": "Where is the toilet?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "こちら です。",
+            "romaji": "Kochira desu.",
+            "english": "It is here.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "おくに は どちら ですか。",
+            "romaji": "Okuni wa dochira desu ka?",
+            "english": "Where is your country?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "バングラデシュ です。",
+            "romaji": "Banguradeshu desu.",
+            "english": "It is Bangladesh.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "だいがく は どちら ですか。",
+            "romaji": "Daigaku wa dochira desu ka?",
+            "english": "Where is the university?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "DHAKA だいがく です。",
+            "romaji": "Dhaka daigaku desu.",
+            "english": "It is Dhaka University.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "どちら is used in formal or polite situations, such as in businesses, schools, or when speaking respectfully. Always answer using the same level of politeness as the question."
+      },
+      {
+        "ruleNumber": 3,
+        "title": "The お and ご Honorific Prefixes",
+        "description": "お and ご are honorific prefixes added to some nouns to make them more polite. Which one to use depends on the word and is learned naturally through practice.",
+        "examples": [
+          {
+            "japanese": "おくに",
+            "romaji": "Okuni",
+            "english": "Country (polite form)",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "おてあらい",
+            "romaji": "Otearai",
+            "english": "Toilet (polite form)",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "おまつり",
+            "romaji": "Omatsuri",
+            "english": "Festival (polite form)",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "おみず",
+            "romaji": "Omizu",
+            "english": "Water (polite form)",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ごはん",
+            "romaji": "Gohan",
+            "english": "Rice/meal (polite form)",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "お is often used for native Japanese words, and ご is often used for Sino-Japanese (Chinese origin) words, but there are exceptions. Usage should be learned through examples."
+      }
+    ]
+  },
+  {
+    "lesson": 4,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Verb Forms: Present/Future and Past",
+        "description": "Japanese verbs have two main forms: the polite form for present/future actions and the past form. The stem of the verb remains unchanged when forming negative or past forms. The ます ending is removed to get the verb stem.",
+        "examples": [
+          {
+            "japanese": "おきます",
+            "romaji": "Okimasu",
+            "english": "to get up",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "おきました",
+            "romaji": "Okimashita",
+            "english": "got up",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "いきます",
+            "romaji": "Ikimasu",
+            "english": "to go",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "いきました",
+            "romaji": "Ikimashita",
+            "english": "went",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "たべます",
+            "romaji": "Tabemasu",
+            "english": "to eat",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "たべました",
+            "romaji": "Tabemashita",
+            "english": "ate",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "します",
+            "romaji": "Shimasu",
+            "english": "to do",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "しました",
+            "romaji": "Shimashita",
+            "english": "did",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "The verb stem is the part before ます. Use ません for present/future negative and ませんでした for past negative forms."
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Negative Forms of Verbs",
+        "description": "To make verbs negative in Japanese, add ません to the present/future form and ませんでした to the past form, without changing the verb stem.",
+        "examples": [
+          {
+            "japanese": "いきません",
+            "romaji": "Ikimasen",
+            "english": "do not go",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "いきませんでした",
+            "romaji": "Ikimasen deshita",
+            "english": "did not go",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "たべません",
+            "romaji": "Tabemasen",
+            "english": "do not eat",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "たべませんでした",
+            "romaji": "Tabemasen deshita",
+            "english": "did not eat",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "します",
+            "romaji": "Shimasu",
+            "english": "to do",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "しません",
+            "romaji": "Shimasen",
+            "english": "do not do",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "しませんでした",
+            "romaji": "Shimasen deshita",
+            "english": "did not do",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Only the ます ending changes; the verb stem remains the same in negative forms."
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Use of に for Specific Time",
+        "description": "The particle に is used to indicate a specific time when an action occurs.",
+        "examples": [
+          {
+            "japanese": "まいあさ 6 じ に おきます。",
+            "romaji": "Maiasa 6-ji ni okimasu.",
+            "english": "I get up at 6 every morning.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ごご 3 じ に おわります。",
+            "romaji": "Gogo 3-ji ni owarimasu.",
+            "english": "It finishes at 3 p.m.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "ミラーさん は 9 じ に じむしょ へ きます。",
+            "romaji": "Miraa-san wa 9-ji ni jimusho e kimasu.",
+            "english": "Mr. Miller comes to the office at 9.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Use に only when the time is fixed. To ask questions, add か after the verb: おわりますか?"
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Use of へ for Direction",
+        "description": "The particle へ (pronounced 'e') indicates the direction toward which someone or something moves.",
+        "examples": [
+          {
+            "japanese": "わたし は だいがく へ いきます。",
+            "romaji": "Watashi wa daigaku e ikimasu.",
+            "english": "I go to the university.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "まいばん 8 じ に うち へ かえります。",
+            "romaji": "Maiban 8-ji ni uchi e kaerimasu.",
+            "english": "I return home at 8 every night.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Use へ after places with movement verbs like いきます (go), きます (come), and かえります (return)."
+      },
+      {
+        "ruleNumber": 5,
+        "title": "Use of から and まで",
+        "description": "から means 'from' and まで means 'until'. Both are used to indicate the start and end points of time or space.",
+        "examples": [
+          {
+            "japanese": "がっこう は ごぜん 8 じ から ごご 3 じ まで です。",
+            "romaji": "Gakkou wa gozen 8-ji kara gogo 3-ji made desu.",
+            "english": "School is from 8 a.m. to 3 p.m.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "まいにち ごご 10 じ まで はたらきます。",
+            "romaji": "Mainichi gogo 10-ji made hatarakimasu.",
+            "english": "I work until 10 p.m. every day.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "この ほん は にほん から かいました。",
+            "romaji": "Kono hon wa Nihon kara kaimashita.",
+            "english": "I bought this book from Japan.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Use から for the starting point and まで for the ending point of time or location."
+      },
+      {
+        "ruleNumber": 6,
+        "title": "Use of と for 'with'",
+        "description": "The particle と indicates 'with whom' an action is done.",
+        "examples": [
+          {
+            "japanese": "はは と がっこう へ いきます。",
+            "romaji": "Haha to gakkou e ikimasu.",
+            "english": "I go to school with my mother.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "かぞく と にほん へ きました。",
+            "romaji": "Kazoku to Nihon e kimashita.",
+            "english": "I came to Japan with my family.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "わたし と やまださん は ひろしま へ いきました。",
+            "romaji": "Watashi to Yamada-san wa Hiroshima e ikimashita.",
+            "english": "I and Mr. Yamada went to Hiroshima.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "Use と to specify the person(s) accompanying the subject in the action."
+      },
+      {
+        "ruleNumber": 7,
+        "title": "Asking and Telling Time",
+        "description": "To ask the time, use いま なん じ ですか。The reply format depends on hours and minutes.",
+        "examples": [
+          {
+            "japanese": "いま なん じ ですか。",
+            "romaji": "Ima nan-ji desu ka?",
+            "english": "What time is it now?",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "1 じ です。",
+            "romaji": "Ichi-ji desu.",
+            "english": "It is 1 o'clock.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "5 じ はん です。",
+            "romaji": "Go-ji han desu.",
+            "english": "It is 5:30.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          },
+          {
+            "japanese": "8 じ 26 ぷん です。",
+            "romaji": "Hachi-ji 26-pun desu.",
+            "english": "It is 8:26.",
+            "answer": "",
+          "answerRomaji": "",
+          "answerEnglish": ""
+          }
+        ],
+        "note": "For minutes ending in 0,1,6,8 use ぷん, otherwise use ふん. The Japanese tag question ですね is commonly used after stating the time."
+      }
+    ]
+  },
+  {
+    "lesson": 5,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Use of なに / なん",
+        "description": "なに and なん both mean 'what', but their usage depends on the following particle or context. They are used to ask about things or actions.",
+        "examples": [
+          {
+            "japanese": "あした どこ へ いきますか。",
+            "romaji": "Ashita doko e ikimasu ka?",
+            "english": "Where will you go tomorrow?"
+          },
+          {
+            "japanese": "どこ も いきません。",
+            "romaji": "Doko mo ikimasen.",
+            "english": "I am not going anywhere."
+          },
+          {
+            "japanese": "どこ へ いきません。",
+            "romaji": "Doko e ikimasen.",
+            "english": "I am not going anywhere."
+          },
+          {
+            "japanese": "なに も たべませんでした。",
+            "romaji": "Nani mo tabemasen deshita.",
+            "english": "I did not eat anything."
+          },
+          {
+            "japanese": "だれ と あいますか。",
+            "romaji": "Dare to aimasu ka?",
+            "english": "Who will you meet?"
+          },
+          {
+            "japanese": "だれ も あいません。",
+            "romaji": "Dare mo aimasen.",
+            "english": "I will not meet anyone."
+          }
+        ],
+        "note": "Use も after なに, どこ, だれ to indicate 'nothing', 'nowhere', or 'no one'. Both particle placement and context are important."
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Use of よ for Emphasis",
+        "description": "The sentence-ending particle よ is used to emphasize information or to inform someone strongly.",
+        "examples": [
+          {
+            "japanese": "すごい あじ です。",
+            "romaji": "Sugoi aji desu.",
+            "english": "It tastes great."
+          },
+          {
+            "japanese": "すごい あじ ですよ。",
+            "romaji": "Sugoi aji desu yo.",
+            "english": "It tastes really great, you know."
+          },
+          {
+            "japanese": "つぎ の でんしゃ いきますよ。",
+            "romaji": "Tsugi no densha ikimasu yo.",
+            "english": "The next train will go, for sure."
+          }
+        ],
+        "note": "Use よ at the end of a sentence to make your statement more assertive or to inform the listener clearly."
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Use of いつ (When)",
+        "description": "いつ means 'when'. It is used to ask about a specific time for an action or event.",
+        "examples": [
+          {
+            "japanese": "いつ にほん へ きましたか。",
+            "romaji": "Itsu Nihon e kimashita ka?",
+            "english": "When did you come to Japan?"
+          },
+          {
+            "japanese": "わたし は こんがつ の 15 にち に にほん へ きました。",
+            "romaji": "Watashi wa kongetsu no 15-nichi ni Nihon e kimashita.",
+            "english": "I came to Japan on the 15th of this month."
+          }
+        ],
+        "note": "Use いつ to ask for specific dates, months, or times. The answer should indicate the exact time or period."
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Use of particle を (Object Marker)",
+        "description": "を is used after the object of a sentence to indicate what the verb acts upon.",
+        "examples": [
+          {
+            "japanese": "あした なに を べんきょうしますか。",
+            "romaji": "Ashita nani o benkyou shimasu ka?",
+            "english": "What will you study tomorrow?"
+          },
+          {
+            "japanese": "にほんご を べんきょうします。",
+            "romaji": "Nihongo o benkyou shimasu.",
+            "english": "I will study Japanese."
+          },
+          {
+            "japanese": "きょう なに を しましたか。",
+            "romaji": "Kyou nani o shimashita ka?",
+            "english": "What did you do today?"
+          },
+          {
+            "japanese": "サッカー を します。",
+            "romaji": "Sakkā o shimasu.",
+            "english": "I play soccer."
+          },
+          {
+            "japanese": "ごはん と にく を たべました。",
+            "romaji": "Gohan to niku o tabemashita.",
+            "english": "I ate rice and meat."
+          }
+        ],
+        "note": "When asking about objects, use なに を. The answer will always include the object marked by を. Past tense questions and answers use the past form of the verb."
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Use of particle で (Action/Method Marker)",
+        "description": "で indicates the place where an action occurs, or the means/method by which something is done (like 'by' or 'using').",
+        "examples": [
+          {
+            "japanese": "えき で あいます。",
+            "romaji": "Eki de aimasu.",
+            "english": "We will meet at the station."
+          },
+          {
+            "japanese": "この くるま は どこ で かいましたか。",
+            "romaji": "Kono kuruma wa doko de kaimashita ka?",
+            "english": "Where did you buy this car?"
+          },
+          {
+            "japanese": "にほん で かいました。",
+            "romaji": "Nihon de kaimashita.",
+            "english": "I bought it in Japan."
+          },
+          {
+            "japanese": "でんしゃ で かいしゃ へ いきます。",
+            "romaji": "Densha de kaisha e ikimasu.",
+            "english": "I go to the company by train."
+          },
+          {
+            "japanese": "ほうちょう で くだもの を きりました。",
+            "romaji": "Houchou de kudamono o kirimashita.",
+            "english": "I cut the fruits with a knife."
+          },
+          {
+            "japanese": "き で テーブル を つくります。",
+            "romaji": "Ki de tēburu o tsukurimasu.",
+            "english": "I make a table from wood."
+          }
+        ],
+        "note": "Use に instead of で with verbs that indicate existence, living, or employment (います, あります, すみます, つとめます). で is only for actions occurring at a place or using a method."
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Making Offers with ませんか and ましょう",
+        "description": "To suggest an action, use the verb stem + ませんか. To accept the offer, respond with the verb stem + ましょう.",
+        "examples": [
+          {
+            "japanese": "いっしょに たべませんか。",
+            "romaji": "Issho ni tabemasen ka?",
+            "english": "Shall we eat together?"
+          },
+          {
+            "japanese": "はい、たべましょう。",
+            "romaji": "Hai, tabemashou.",
+            "english": "Yes, let's eat."
+          },
+          {
+            "japanese": "きょう あそびませんか。",
+            "romaji": "Kyou asobimasen ka?",
+            "english": "Shall we play today?"
+          },
+          {
+            "japanese": "はい、あそびましょう。",
+            "romaji": "Hai, asobimashou.",
+            "english": "Yes, let's play."
+          },
+          {
+            "japanese": "あした あいませんか。",
+            "romaji": "Ashita aimasen ka?",
+            "english": "Shall we meet tomorrow?"
+          },
+          {
+            "japanese": "いいえ、まだ です。",
+            "romaji": "Iie, mada desu.",
+            "english": "No, not yet."
+          }
+        ],
+        "note": "Use どこ に for location existence (いる/あります) and どこ で for action location (using で). Offers are made with ませんか, and agreement is expressed with ましょう."
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Use of particle に (Direction/Recipient/Time)",
+        "description": "に is used to indicate the direction of an action, the recipient of something, or a specific point in time. For places where something comes from, use から. Do not use に after general time expressions like こんがつ, らいがつ, らいねん, せんしゅう unless specifying a date (e.g., こんがつ の 12 にち).",
+        "examples": [
+          {
+            "japanese": "わたし は ミラーさん に ほん を もらいました。",
+            "romaji": "Watashi wa Mirā-san ni hon o moraimashita.",
+            "english": "I received a book from Mr. Miller."
+          },
+          {
+            "japanese": "たなかさん は やまださん に くるま を あげました。",
+            "romaji": "Tanaka-san wa Yamada-san ni kuruma o agemashita.",
+            "english": "Mr. Tanaka gave a car to Mr. Yamada."
+          },
+          {
+            "japanese": "ぎんこう から おかね を もらいました。",
+            "romaji": "Ginkou kara okane o moraimashita.",
+            "english": "I received money from the bank."
+          },
+          {
+            "japanese": "がっこう から にほんご を ならいました。",
+            "romaji": "Gakkou kara Nihongo o naraimashita.",
+            "english": "I learned Japanese at school."
+          },
+          {
+            "japanese": "こんがつ は きょうと へ いきます。",
+            "romaji": "Kongatsu wa Kyouto e ikimasu.",
+            "english": "I will go to Kyoto this month."
+          },
+          {
+            "japanese": "らいがつ の 22 にち に だいがく に はいります。",
+            "romaji": "Raigatsu no 22-nichi ni daigaku ni hairimasu.",
+            "english": "I will enter the university on the 22nd of next month."
+          },
+          {
+            "japanese": "かいしゃ に でんわしました。",
+            "romaji": "Kaisha ni denwa shimashita.",
+            "english": "I called the company."
+          },
+          {
+            "japanese": "いま どこ に いますか。",
+            "romaji": "Ima doko ni imasu ka?",
+            "english": "Where are you now?"
+          },
+          {
+            "japanese": "とうきょう に います。",
+            "romaji": "Toukyou ni imasu.",
+            "english": "I am in Tokyo."
+          },
+          {
+            "japanese": "いま ところ で はたらいています。",
+            "romaji": "Ima tokoro de hataraiteimasu.",
+            "english": "Where are you working now?"
+          },
+          {
+            "japanese": "ぎんこう で はたらいています。",
+            "romaji": "Ginkou de hataraiteimasu.",
+            "english": "I am working at the bank."
+          }
+        ],
+        "note": "Use に after a place when indicating direction or recipient. Use から when indicating the source. For time, に marks a specific point in time (e.g., Sunday, 3 o'clock, December, a year)."
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Use of もう (Already) with Past Tense",
+        "description": "もう means 'already'. Questions with もう should use the past tense, and answers should also be in past tense.",
+        "examples": [
+          {
+            "japanese": "もう ごはん を たべましたか。",
+            "romaji": "Mou gohan o tabemashita ka?",
+            "english": "Have you already eaten?"
+          },
+          {
+            "japanese": "はい、もう たべました。",
+            "romaji": "Hai, mou tabemashita.",
+            "english": "Yes, I already ate."
+          },
+          {
+            "japanese": "もう にもつ を おくりましたか。",
+            "romaji": "Mou nimotsu o okurimashita ka?",
+            "english": "Did you already send the package?"
+          },
+          {
+            "japanese": "いいえ、まだ です。",
+            "romaji": "Iie, mada desu.",
+            "english": "No, not yet."
+          },
+          {
+            "japanese": "はい、もう おくりました。",
+            "romaji": "Hai, mou okurimashita.",
+            "english": "Yes, I already sent it."
+          }
+        ],
+        "note": "Always use past tense with もう in questions and answers."
+      }
+    ]
+  },
+   {
+    "lesson": 8,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Adjectives (けいようし) Types",
+        "description": "Japanese adjectives are divided into two types: い-adjectives and な-adjectives. い-adjectives end with い (e.g., たかい, あまい, むずかしい, おもしろい, いい). な-adjectives end with な when modifying nouns (e.g., ゆうめいな, べんりな, しんせつな, たいせつな, へたな, にぎやかな). When a な-adjective directly modifies a noun, the な is required.",
+        "examples": [
+          {
+            "japanese": "とうきょう は にぎやか です。",
+            "romaji": "Toukyou wa nigiyaka desu.",
+            "english": "Tokyo is lively."
+          },
+          {
+            "japanese": "とうきょう は にぎやかな まち です。",
+            "romaji": "Toukyou wa nigiyaka na machi desu.",
+            "english": "Tokyo is a lively city."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 2,
+        "title": "い-Adjectives: Present/Future & Past, Positive & Negative",
+        "description": "い-adjectives change based on tense and polarity. To make past negative, replace い with くなかった. For 'いい', use よくない (negative) and よかった (past positive).",
+        "examples": [
+          {
+            "japanese": "たかい です / たかくない です / たかかった です / たかくなかった です",
+            "romaji": "Takai desu / Takakunai desu / Takakatta desu / Takakunakatta desu",
+            "english": "Expensive / Not expensive / Was expensive / Was not expensive"
+          },
+          {
+            "japanese": "いい です / よくない です / よかった です / よくなかった です",
+            "romaji": "Ii desu / Yokunai desu / Yokatta desu / Yokunakatta desu",
+            "english": "Good / Not good / Was good / Was not good"
+          }
+        ]
+      },
+      {
+        "ruleNumber": 3,
+        "title": "な-Adjectives: Present/Future & Past, Positive & Negative",
+        "description": "To make a な-adjective negative in present/future, replace です with じゃありません. For past negative, use じゃありませんでした.",
+        "examples": [
+          {
+            "japanese": "きれい です / きれい じゃありません / きれい でした / きれい じゃありませんでした",
+            "romaji": "Kirei desu / Kirei ja arimasen / Kirei deshita / Kirei ja arimasen deshita",
+            "english": "Beautiful / Not beautiful / Was beautiful / Was not beautiful"
+          },
+          {
+            "japanese": "へた です / へた じゃありません / へた でした / へた じゃありませんでした",
+            "romaji": "Heta desu / Heta ja arimasen / Heta deshita / Heta ja arimasen deshita",
+            "english": "Unskilled / Not unskilled / Was unskilled / Was not unskilled"
+          }
+        ]
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Practical Examples of Adjectives",
+        "examples": [
+          {
+            "japanese": "ミラーさん は しんせつ です。",
+            "romaji": "Mirā-san wa shinsetsu desu.",
+            "english": "Mr. Miller is kind."
+          },
+          {
+            "japanese": "ミラーさん は しんせつな ひと です。",
+            "romaji": "Mirā-san wa shinsetsu na hito desu.",
+            "english": "Mr. Miller is a kind person."
+          },
+          {
+            "japanese": "ふじさん は たかい です。",
+            "romaji": "Fujisan wa takai desu.",
+            "english": "Mt. Fuji is tall."
+          },
+          {
+            "japanese": "あそこ は しずか じゃありません。",
+            "romaji": "Asoko wa shizuka ja arimasen.",
+            "english": "It is not quiet over there."
+          },
+          {
+            "japanese": "わたし は にほんご で へた です。",
+            "romaji": "Watashi wa Nihongo de heta desu.",
+            "english": "I am unskilled in Japanese."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 5,
+        "title": "Use of が (And)",
+        "description": "が connects two adjectives or clauses and can mean 'and' when describing contrast.",
+        "examples": [
+          {
+            "japanese": "にほん の せいかつ は どう ですか？ / いそがしい ですが たのしい です。",
+            "romaji": "Nihon no seikatsu wa dou desu ka? / Isogashii desu ga tanoshii desu.",
+            "english": "How is life in Japan? / Busy but enjoyable."
+          },
+          {
+            "japanese": "にほん の たべもの は どう ですか？ / おいしい ですが たかい です。",
+            "romaji": "Nihon no tabemono wa dou desu ka? / Oishii desu ga takai desu.",
+            "english": "How is Japanese food? / Delicious but expensive."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 6,
+        "title": "Use of とても (Very) and あまり (Not very)",
+        "description": "とても is used with positive sentences for emphasis. あまり is used with negative sentences. ぜんぜん means 'not at all' and is always used in negative sentences.",
+        "examples": [
+          {
+            "japanese": "バングラデシュ は あまり さむくない です。",
+            "romaji": "Banguradeshu wa amari samukunai desu.",
+            "english": "Bangladesh is not very cold."
+          },
+          {
+            "japanese": "にほん の くるま は とても いい です。",
+            "romaji": "Nihon no kuruma wa totemo ii desu.",
+            "english": "Japanese cars are very good."
+          },
+          {
+            "japanese": "わたし は おさけ を あまり すき じゃありません。",
+            "romaji": "Watashi wa osake o amari suki ja arimasen.",
+            "english": "I don't like alcohol very much."
+          },
+          {
+            "japanese": "わたし は おさけ を ぜんぜん すき じゃありません。",
+            "romaji": "Watashi wa osake o zenzen suki ja arimasen.",
+            "english": "I don't like alcohol at all."
+          },
+          {
+            "japanese": "にほんご は ぜんぜん わかりません。",
+            "romaji": "Nihongo wa zenzen wakarimasen.",
+            "english": "I don't understand Japanese at all."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 7,
+        "title": "Additional Example with どんな and どれ",
+        "examples": [
+          {
+            "japanese": "なら は どんな まち ですか？ / なら は ふろい まち です。",
+            "romaji": "Nara wa donna machi desu ka? / Nara wa furui machi desu.",
+            "english": "What kind of city is Nara? / Nara is an old city."
+          },
+          {
+            "japanese": "ミラーさん の かさ は どれ ですか？ / あの あおい かさ です。",
+            "romaji": "Mirā-san no kasa wa dore desu ka? / Ano aoi kasa desu.",
+            "english": "Which umbrella is Mr. Miller's? / That blue umbrella."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Verbs あります, います, わかります",
+        "description": "These verbs take the particle が for the object. あります is used for inanimate objects (things), います is used for animate objects (people, animals), and わかります is used for things that can be understood. The object can be identified by asking the question with the verb.",
+        "examples": [
+          {
+            "japanese": "わたし は にほんご が わかります。",
+            "romaji": "Watashi wa Nihongo ga wakarimasu.",
+            "english": "I understand Japanese."
+          },
+          {
+            "japanese": "ミラーさん は くるま が あります。",
+            "romaji": "Mirā-san wa kuruma ga arimasu.",
+            "english": "Mr. Miller has a car."
+          },
+          {
+            "japanese": "あそこ に ひと が います。",
+            "romaji": "Asoko ni hito ga imasu.",
+            "english": "There is a person over there."
+          },
+          {
+            "japanese": "へや の となり に にわ が あります。",
+            "romaji": "Heya no tonari ni niwa ga arimasu.",
+            "english": "There is a garden next to the room."
+          },
+          {
+            "japanese": "じむしょ に やまばさん が います。",
+            "romaji": "Jimusho ni Yamaba-san ga imasu.",
+            "english": "Mr. Yamaba is in the office."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Adjectives すき, きらい, へた, じょうず",
+        "description": "These adjectives also take the particle が for the object of liking, disliking, skill, or proficiency.",
+        "examples": [
+          {
+            "japanese": "わたし は イタリア りょうり が すき です。",
+            "romaji": "Watashi wa Itaria ryouri ga suki desu.",
+            "english": "I like Italian food."
+          },
+          {
+            "japanese": "かれ は にほんご が じょうず です。",
+            "romaji": "Kare wa Nihongo ga jouzu desu.",
+            "english": "He is good at Japanese."
+          },
+          {
+            "japanese": "ぶたにく が きらい です。",
+            "romaji": "Butaniku ga kirai desu.",
+            "english": "I dislike pork."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Use of adverbs: よく, あまり, ぜんぜん, だいたい, すこし",
+        "description": "Adverbs modify the degree of understanding, ability, or feeling. ぜんぜん and あまり are always used with negative sentences. よく, だいたい, and すこし are used with positive sentences.",
+        "examples": [
+          {
+            "japanese": "わたし は にほんご が よく わかります。",
+            "romaji": "Watashi wa Nihongo ga yoku wakarimasu.",
+            "english": "I understand Japanese well."
+          },
+          {
+            "japanese": "かんじ が あまり できません。",
+            "romaji": "Kanji ga amari dekimasen.",
+            "english": "I can't do kanji very well."
+          },
+          {
+            "japanese": "かんじ が ぜんぜん できません。",
+            "romaji": "Kanji ga zenzen dekimasen.",
+            "english": "I can't do kanji at all."
+          },
+          {
+            "japanese": "えいご が だいたい わかります。",
+            "romaji": "Eigo ga daitai wakarimasu.",
+            "english": "I roughly understand English."
+          },
+          {
+            "japanese": "えいご が すこし わかります。",
+            "romaji": "Eigo ga sukoshi wakarimasu.",
+            "english": "I understand a little English."
+          },
+          {
+            "japanese": "この えいが は ぜんぜん おもしろくない。",
+            "romaji": "Kono eiga wa zenzen omoshiroku nai.",
+            "english": "This movie is not interesting at all."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Use of から (because)",
+        "description": "から is used to indicate a reason and can appear in two positions: after the reason clause before the main clause. It is used for giving explanations or reasons.",
+        "examples": [
+          {
+            "japanese": "じかん が ありません から しんぶん を よみません。",
+            "romaji": "Jikan ga arimasen kara shinbun o yomimasen.",
+            "english": "I don't read the newspaper because I don't have time."
+          },
+          {
+            "japanese": "こども の たんじょうび です から はやく うち へ かえります。",
+            "romaji": "Kodomo no tanjoubi desu kara hayaku uchi e kaerimasu.",
+            "english": "Because it's my child's birthday, I will go home early."
+          },
+          {
+            "japanese": "おかね が ありませんでした から にほん へ いきませんでした。",
+            "romaji": "Okane ga arimasen deshita kara Nihon e ikimasen deshita.",
+            "english": "I didn't go to Japan because I had no money."
+          }
+        ]
+      }
+    ]
+  },
+   {
+    "lesson": 10,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Use of や (listing items)",
+        "description": "The particle や is used to list multiple items in a non-exhaustive manner, similar to 'and' or 'etc.'. と is another particle used for complete lists. など can be added at the end to mean 'etc.'",
+        "examples": [
+          {
+            "japanese": "この はこ の なか に てがみ や しゃしん が あります。",
+            "romaji": "Kono hako no naka ni tegami ya shashin ga arimasu.",
+            "english": "In this box, there are letters and photos."
+          },
+          {
+            "japanese": "わたし の へや に いす や テブル など が あります。",
+            "romaji": "Watashi no heya ni isu ya teburu nado ga arimasu.",
+            "english": "In my room, there are chairs, tables, etc."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Expressional use of ですか (confirming a question)",
+        "description": "After asking a question, you can use ですか to confirm or double-check information politely. It is used to show uncertainty or to politely ask for confirmation.",
+        "examples": [
+          {
+            "japanese": "えき は どこ ですか。",
+            "romaji": "Eki wa doko desu ka?",
+            "english": "Where is the station?"
+          },
+          {
+            "japanese": "えき ですか。",
+            "romaji": "Eki desu ka?",
+            "english": "The station?"
+          },
+          {
+            "japanese": "はい、えき は あそこ です。",
+            "romaji": "Hai, eki wa asoko desu.",
+            "english": "Yes, the station is over there."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Use of に with positional words",
+        "description": "Words like まえ (front), うしろ (back), みぎ (right), ひだり (left), ちかく (near), となり (next to), うえ (above), した (below) are followed by に to indicate the position of something or someone.",
+        "examples": [
+          {
+            "japanese": "うしろ に あります。",
+            "romaji": "Ushiro ni arimasu.",
+            "english": "It is at the back."
+          },
+          {
+            "japanese": "やまださん は わたし の みぎ に います。",
+            "romaji": "Yamada-san wa watashi no migi ni imasu.",
+            "english": "Mr. Yamada is to my right."
+          },
+          {
+            "japanese": "へや の となり に にわ が あります。",
+            "romaji": "Heya no tonari ni niwa ga arimasu.",
+            "english": "There is a garden next to the room."
+          },
+          {
+            "japanese": "うけつけ に だれ が いますか。",
+            "romaji": "Uketsuke ni dare ga imasu ka?",
+            "english": "Who is at the reception desk?"
+          },
+          {
+            "japanese": "ミラーさん が います。",
+            "romaji": "Mirā-san ga imasu.",
+            "english": "Mr. Miller is there."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Use of いくつ (asking quantity)",
+        "description": "いくつ is used to ask 'how many?' for counting items. The answer uses numbers 1–10 vocabulary.",
+        "examples": [
+          {
+            "japanese": "みかん を いくつ かいましたか。",
+            "romaji": "Mikan o ikutsu kaimashita ka?",
+            "english": "How many tangerines did you buy?"
+          },
+          {
+            "japanese": "みかん を よっつ かいました。",
+            "romaji": "Mikan o yottsu kaimashita.",
+            "english": "I bought four tangerines."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Use of どのぐらい (asking duration)",
+        "description": "どのぐらい is used to ask about duration. Months are expressed using げつ (か月). Numbers are combined with か月 to answer.",
+        "examples": [
+          {
+            "japanese": "くに で どのぐらい にほんご を べんきょうしましたか。",
+            "romaji": "Kuni de dono gurai Nihongo o benkyou shimashita ka?",
+            "english": "How long did you study Japanese in your country?"
+          },
+          {
+            "japanese": "よん か げつ ぐらい にほんご を べんきょうしました。",
+            "romaji": "Yon ka getsu gurai Nihongo o benkyou shimashita.",
+            "english": "I studied Japanese for about four months."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Difference between だい and まい (counters for objects)",
+        "description": "だい is used for heavy or large objects like cars or machines. まい is used for thin or flat objects like paper, shirts, or tickets.",
+        "examples": [
+          {
+            "japanese": "あそこ に くるま を いち だい あります。",
+            "romaji": "Asoko ni kuruma o ichi-dai arimasu.",
+            "english": "There is one car over there."
+          },
+          {
+            "japanese": "かみ を に まい ください。",
+            "romaji": "Kami o ni-mai kudasai.",
+            "english": "Please give me two sheets of paper."
+          },
+          {
+            "japanese": "これ を ください。",
+            "romaji": "Kore o kudasai.",
+            "english": "Please give me this."
+          },
+          {
+            "japanese": "これ を みせて ください。",
+            "romaji": "Kore o misete kudasai.",
+            "english": "Please show me this."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Use of にん (counting people)",
+        "description": "にん is used to count people. なん にん asks 'how many people?' だけ means 'only' in sentences.",
+        "examples": [
+          {
+            "japanese": "この クラス に がくせい は なん にん が いますか。",
+            "romaji": "Kono kurasu ni gakusei wa nan-nin ga imasu ka?",
+            "english": "How many students are in this class?"
+          },
+          {
+            "japanese": "ひゃく にん が います。",
+            "romaji": "Hyaku-nin ga imasu.",
+            "english": "There are 100 people."
+          },
+          {
+            "japanese": "やすみ は にちようび だけ です。",
+            "romaji": "Yasumi wa nichiyoubi dake desu.",
+            "english": "The holiday is only on Sunday."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Comparing two nouns with より",
+        "description": "Use the structure: Noun + は + Noun + より + Adjective + です to compare two nouns. The first noun is being compared to the second noun.",
+        "examples": [
+          {
+            "japanese": "にく は さかな より たかい です。",
+            "romaji": "Niku wa sakana yori takai desu.",
+            "english": "Meat is more expensive than fish."
+          },
+          {
+            "japanese": "にほん の じんこう は バングラデシュ の じんこう より すくない です。",
+            "romaji": "Nihon no jinkou wa Bangladesh no jinkou yori sukunai desu.",
+            "english": "Japan's population is less than Bangladesh's."
+          },
+          {
+            "japanese": "とうきょう は ダッカ より とても さむい です。",
+            "romaji": "Toukyou wa Dakka yori totemo samui desu.",
+            "english": "Tokyo is much colder than Dhaka."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Asking which one is more using どちらが",
+        "description": "Use the structure: Noun + と + Noun + と + どちらが + Adjective + ですか to ask which of the two nouns has a certain quality.",
+        "examples": [
+          {
+            "japanese": "サッカー と やきゅう と どちら が おもしろい ですか。",
+            "romaji": "Sakkā to yakyū to dochira ga omoshiroi desu ka?",
+            "english": "Which is more interesting, soccer or baseball?"
+          },
+          {
+            "japanese": "サッカー の ほうが おもしろい です。",
+            "romaji": "Sakkā no hō ga omoshiroi desu.",
+            "english": "Soccer is more interesting."
+          },
+          {
+            "japanese": "にほん と バングラデシュ と どちら が おおきい くに ですか。",
+            "romaji": "Nihon to Bangladesh to dochira ga ookii kuni desu ka?",
+            "english": "Which country is bigger, Japan or Bangladesh?"
+          },
+          {
+            "japanese": "にほん の ほうが おおきい くに です。",
+            "romaji": "Nihon no hō ga ookii kuni desu.",
+            "english": "Japan is bigger."
+          },
+          {
+            "japanese": "さかな と にく と どちら が すき ですか。",
+            "romaji": "Sakana to niku to dochira ga suki desu ka?",
+            "english": "Which do you like more, fish or meat?"
+          },
+          {
+            "japanese": "さかな の ほうが すき です。",
+            "romaji": "Sakana no hō ga suki desu.",
+            "english": "I like fish more."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Noun Present Positive and Negative",
+        "description": "How to state existence or identity in present/future tense.",
+        "examples": [
+          {
+            "japanese": "きょう は あめ です。",
+            "romaji": "Kyou wa ame desu.",
+            "english": "It is raining today."
+          },
+          {
+            "japanese": "きょう は あめ じゃありません。",
+            "romaji": "Kyou wa ame ja arimasen.",
+            "english": "It is not raining today."
+          },
+          {
+            "japanese": "かれ は いしゃ です。",
+            "romaji": "Kare wa isha desu.",
+            "english": "He is a doctor."
+          },
+          {
+            "japanese": "かれ は いしゃ じゃありません。",
+            "romaji": "Kare wa isha ja arimasen.",
+            "english": "He is not a doctor."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Noun Past Positive and Negative",
+        "description": "How to express past tense for nouns using でした and じゃありませんでした.",
+        "examples": [
+          {
+            "japanese": "きのう は はれ でした。",
+            "romaji": "Kinou wa hare deshita.",
+            "english": "It was sunny yesterday."
+          },
+          {
+            "japanese": "きのう は はれ じゃありませんでした。",
+            "romaji": "Kinou wa hare ja arimasen deshita.",
+            "english": "It was not sunny yesterday."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 5,
+        "title": "Use of いちばん (the most / best)",
+        "description": "Use いちばん to express 'the most' or 'the best' among a group.",
+        "examples": [
+          {
+            "japanese": "にほん りょうり で なに が いちばん おいしい ですか。",
+            "romaji": "Nihon ryouri de nani ga ichiban oishii desu ka?",
+            "english": "Which Japanese dish is the most delicious?"
+          },
+          {
+            "japanese": "てんぷら が いちばん おいしい です。",
+            "romaji": "Tempura ga ichiban oishii desu.",
+            "english": "Tempura is the most delicious."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Using がほしいです (Wanting a noun)",
+        "description": "To express that you want something, use 'がほしいです'. The particle が is required.",
+        "examples": [
+          {
+            "japanese": "あなた は なに が ほしい ですか。",
+            "romaji": "Anata wa nani ga hoshii desu ka?",
+            "english": "What do you want?"
+          },
+          {
+            "japanese": "わたし は くるま が ほしい です。",
+            "romaji": "Watashi wa kuruma ga hoshii desu.",
+            "english": "I want a car."
+          },
+          {
+            "japanese": "わたし は おかね が ほしい です。",
+            "romaji": "Watashi wa okane ga hoshii desu.",
+            "english": "I want money."
+          },
+          {
+            "japanese": "わたし は にほん の とけい が ほしい です。",
+            "romaji": "Watashi wa Nihon no tokei ga hoshii desu.",
+            "english": "I want a Japanese watch."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Verb stem + たい (Want to do something)",
+        "description": "To express wanting to do an action, use the verb stem + たい. Negative is formed by replacing たい with たくない.",
+        "examples": [
+          {
+            "japanese": "なに を したい ですか。",
+            "romaji": "Nani o shitai desu ka?",
+            "english": "What do you want to do?"
+          },
+          {
+            "japanese": "わたし は カメラ を かいたい です。",
+            "romaji": "Watashi wa kamera o kaitai desu.",
+            "english": "I want to buy a camera."
+          },
+          {
+            "japanese": "わたし は けっこんしたい です。",
+            "romaji": "Watashi wa kekkon shitai desu.",
+            "english": "I want to get married."
+          },
+          {
+            "japanese": "わたし は かぞく に あいたい です。",
+            "romaji": "Watashi wa kazoku ni aitai desu.",
+            "english": "I want to meet my family."
+          },
+          {
+            "japanese": "わたし は がいこく で はたらきたい です。",
+            "romaji": "Watashi wa gaikoku de hatarakitai desu.",
+            "english": "I want to work abroad."
+          },
+          {
+            "japanese": "わたし は カメラ を かいたくない です。",
+            "romaji": "Watashi wa kamera o kaitakunai desu.",
+            "english": "I don't want to buy a camera."
+          },
+          {
+            "japanese": "わたし は けっこんしたくない です。",
+            "romaji": "Watashi wa kekkon shitakunai desu.",
+            "english": "I don't want to get married."
+          },
+          {
+            "japanese": "わたし は かぞく に あいたくない です。",
+            "romaji": "Watashi wa kazoku ni aitakunai desu.",
+            "english": "I don't want to meet my family."
+          },
+          {
+            "japanese": "わたし は がいこく で はたらきたくない です。",
+            "romaji": "Watashi wa gaikoku de hatarakitakunai desu.",
+            "english": "I don't want to work abroad."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Verb stem + にいきます (Go to do something)",
+        "description": "Use the verb stem + にいきます to express going somewhere for the purpose of doing something.",
+        "examples": [
+          {
+            "japanese": "あなた は きょうと へ なに を し に いきますか。",
+            "romaji": "Anata wa Kyouto e nani o shi ni ikimasu ka?",
+            "english": "What will you go to Kyoto to do?"
+          },
+          {
+            "japanese": "わたし は きょうと へ あそび に いきます。",
+            "romaji": "Watashi wa Kyouto e asobi ni ikimasu.",
+            "english": "I will go to Kyoto to play."
+          },
+          {
+            "japanese": "わたし は きょうと へ たべ に いきます。",
+            "romaji": "Watashi wa Kyouto e tabe ni ikimasu.",
+            "english": "I will go to Kyoto to eat."
+          },
+          {
+            "japanese": "わたし は きょうと へ かいもの に いきます。",
+            "romaji": "Watashi wa Kyouto e kaimono ni ikimasu.",
+            "english": "I will go to Kyoto to shop."
+          }
+        ]
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Using どこか and なにか",
+        "description": "Use どこか (somewhere) and なにか (something) to ask questions. Optional particles in brackets are not required in the question but must be used in the answer.",
+        "examples": [
+          {
+            "japanese": "どこか へ いきますか。",
+            "romaji": "Doko ka e ikimasu ka?",
+            "english": "Will you go somewhere?"
+          },
+          {
+            "japanese": "だいがく へ いきます。",
+            "romaji": "Daigaku e ikimasu.",
+            "english": "I will go to the university."
+          },
+          {
+            "japanese": "なにか を のみますか。",
+            "romaji": "Nanika o nomimasu ka?",
+            "english": "Will you drink something?"
+          },
+          {
+            "japanese": "みず を のみます。",
+            "romaji": "Mizu o nomimasu.",
+            "english": "I will drink water."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "rules": [
+      {
+        "ruleNumber": 1,
+        "title": "Group-1 Verbs",
+        "description": "Verbs whose ます stem ends with い、ち、り、に、び、み、き、ぎ、し are Group-1 verbs.",
+        "examples": [
+          {"japanese": "いいます", "romaji": "iimasu", "english": "to say"},
+          {"japanese": "あいます", "romaji": "aimasu", "english": "to meet"},
+          {"japanese": "まちます", "romaji": "machimasu", "english": "to wait"},
+          {"japanese": "たちます", "romaji": "tachimasu", "english": "to stand"},
+          {"japanese": "はいります", "romaji": "hairimasu", "english": "to enter"},
+          {"japanese": "くばります", "romaji": "kubarimasu", "english": "to distribute"},
+          {"japanese": "しにます", "romaji": "shinimasu", "english": "to die"},
+          {"japanese": "あそびます", "romaji": "asobimasu", "english": "to play"},
+          {"japanese": "とびます", "romaji": "tobimasu", "english": "to jump"},
+          {"japanese": "よみます", "romaji": "yomimasu", "english": "to read"},
+          {"japanese": "のみます", "romaji": "nomimasu", "english": "to drink"},
+          {"japanese": "あるきます", "romaji": "arukimasu", "english": "to walk"},
+          {"japanese": "かきます", "romaji": "kakimasu", "english": "to write"},
+          {"japanese": "いそぎます", "romaji": "isogimasu", "english": "to hurry"},
+          {"japanese": "ぬぎます", "romaji": "nugimasu", "english": "to take off clothes"},
+          {"japanese": "おします", "romaji": "osshimasu", "english": "to push"}
+        ]
+      },
+      {
+        "ruleNumber": 2,
+        "title": "Group-2 Verbs",
+        "description": "Verbs whose ます stem ends with 'え' or the い sound before ます are Group-2 verbs. Some exceptions exist.",
+        "examples": [
+          {"japanese": "たべます", "romaji": "tabemasu", "english": "to eat"},
+          {"japanese": "ねます", "romaji": "nemasu", "english": "to sleep"},
+          {"japanese": "でます", "romaji": "demasu", "english": "to exit"},
+          {"japanese": "あびます", "romaji": "abimasu", "english": "to bathe"},
+          {"japanese": "かります", "romaji": "karimasu", "english": "to borrow"},
+          {"japanese": "おきます", "romaji": "okimasu", "english": "to get up"},
+          {"japanese": "みます", "romaji": "mimasu", "english": "to see"},
+          {"japanese": "います", "romaji": "imasu", "english": "to exist (animate)"}
+        ]
+      },
+      {
+        "ruleNumber": 3,
+        "title": "Group-3 (Irregular) Verbs",
+        "description": "Only します (do) and きます (come) are Group-3 verbs. Nouns can be converted to verbs by adding します.",
+        "examples": [
+          {"japanese": "べんきょうします", "romaji": "benkyou shimasu", "english": "to study"},
+          {"japanese": "コピーします", "romaji": "kopii shimasu", "english": "to copy"},
+          {"japanese": "きます", "romaji": "kimasu", "english": "to come"},
+          {"japanese": "さんぽします", "romaji": "sanpo shimasu", "english": "to take a walk"},
+          {"japanese": "せんたくします", "romaji": "sentaku shimasu", "english": "to do laundry"}
+        ]
+      },
+      {
+        "ruleNumber": 4,
+        "title": "Group-1 Verb て-form",
+        "description": "Converting Group-1 verbs to て-form based on their ます ending:",
+        "examples": [
+          {"japanese": "かいます → かって", "romaji": "kaimasu → katte", "english": "to buy"},
+          {"japanese": "しにます → しんで", "romaji": "shinimasu → shinde", "english": "to die"},
+          {"japanese": "かきます → かいて", "romaji": "kakimasu → kaite", "english": "to write"},
+          {"japanese": "いそぎます → いそいで", "romaji": "isogimasu → isoide", "english": "to hurry"},
+          {"japanese": "はなします → はなして", "romaji": "hanashimasu → hanashite", "english": "to speak"}
+        ]
+      },
+      {
+        "ruleNumber": 5,
+        "title": "Group-2 Verb て-form",
+        "description": "For Group-2 verbs, drop ます and add て.",
+        "examples": [
+          {"japanese": "たべます → たべて", "romaji": "tabemasu → tabete", "english": "to eat"},
+          {"japanese": "おしえます → おしえて", "romaji": "oshiemasu → oshiete", "english": "to teach"},
+          {"japanese": "ねます → ねて", "romaji": "nemasu → nete", "english": "to sleep"}
+        ]
+      },
+      {
+        "ruleNumber": 6,
+        "title": "Group-3 Verb て-form",
+        "description": "For Group-3 verbs, ます is replaced with て.",
+        "examples": [
+          {"japanese": "べんきょうします → べんきょうして", "romaji": "benkyou shimasu → benkyou shite", "english": "to study"},
+          {"japanese": "コピーします → コピーして", "romaji": "kopii shimasu → kopii shite", "english": "to copy"},
+          {"japanese": "きます → きて", "romaji": "kimasu → kite", "english": "to come"}
+        ]
+      },
+      {
+        "ruleNumber": 7,
+        "title": "て-form + います (Progressive/Continuous)",
+        "examples": [
+          {"japanese": "わたし は にほんご を べんきょうして います。", "romaji": "Watashi wa nihongo o benkyou shite imasu.", "english": "I am studying Japanese."},
+          {"japanese": "わたし は はたらいて います。", "romaji": "Watashi wa hataraite imasu.", "english": "I am working."},
+          {"japanese": "わたし は あさごはん を たべて います。", "romaji": "Watashi wa asagohan o tabete imasu.", "english": "I am eating breakfast."},
+          {"japanese": "ミラーさん は くるま を うんてんして います。", "romaji": "Miraa-san wa kuruma o unten shite imasu.", "english": "Mr. Miller is driving a car."}
+        ]
+      },
+      {
+        "ruleNumber": 8,
+        "title": "て-form + ください (Requests)",
+        "examples": [
+          {"japanese": "こたえ を かいて ください。", "romaji": "Kotae o kaite kudasai.", "english": "Please write the answer."},
+          {"japanese": "どうぞ たくさん たべて ください。", "romaji": "Douzo takusan tabete kudasai.", "english": "Please eat a lot."},
+          {"japanese": "すみませんが、ちょっと てつだって ください。", "romaji": "Sumimasen ga, chotto tetsudatte kudasai.", "english": "Excuse me, please help me a little."},
+          {"japanese": "もう すこし ゆっくり はなして ください。", "romaji": "Mou sukoshi yukkuri hanashite kudasai.", "english": "Please speak a little slower."},
+          {"japanese": "ドア を しめて ください。", "romaji": "Doa o shimete kudasai.", "english": "Please close the door."}
+        ]
+      },
+      {
+        "ruleNumber": 9,
+        "title": "Verb Stem + ましょうか (Offering help)",
+        "examples": [
+          {"japanese": "でんき を けしましょか。", "romaji": "Denki o keshimashou ka?", "english": "Shall I turn off the light?"},
+          {"japanese": "ええ、おねがいします。", "romaji": "Ee, onegaishimasu.", "english": "Yes, please."},
+          {"japanese": "いいえ、けっこう です。", "romaji": "Iie, kekkou desu.", "english": "No, it's fine."},
+          {"japanese": "てつだいましょうか。", "romaji": "Tetsudaimashou ka?", "english": "Shall I help you?"},
+          {"japanese": "えきまで むかえに いきましょうか。", "romaji": "Eki made mukae ni ikimashou ka?", "english": "Shall I go to pick you up at the station?"}
+        ]
+      }
+    ]
+  },
+  {
+  "lesson": 15,
+  "rules": [
+    {
+      "ruleNumber": 1,
+      "title": "て-form + も いい ですか (Permission)",
+      "description": "Used to ask for permission politely. Responses can be affirmative (Yes, you may) or negative (Sorry, you may not). Always use polite expressions when speaking to clients or customers.",
+      "examples": [
+        {
+          "japanese": "えんぴつ で かいて も いい ですか。",
+          "romaji": "Enpitsu de kaite mo ii desu ka?",
+          "english": "May I write with a pencil?",
+          "answer": "ええ、いい ですよ。どうぞ。",
+          "answerRomaji": "Ee, ii desu yo. Dōzo.",
+          "answerEnglish": "Yes, you may. Go ahead."
+        },
+        {
+          "japanese": "しゃしん を とって も いい ですか。",
+          "romaji": "Shashin o totte mo ii desu ka?",
+          "english": "May I take a photo?",
+          "answer": "すみません。ちょっと…だめです。",
+          "answerRomaji": "Sumimasen. Chotto… dame desu.",
+          "answerEnglish": "Sorry, you may not."
+        },
+        {
+          "japanese": "しりょう を みて も いい ですか。",
+          "romaji": "Shiryō o mite mo ii desu ka?",
+          "english": "May I look at the documents?",
+          "answer": "おねがいします。",
+          "answerRomaji": "Onegaishimasu.",
+          "answerEnglish": "Yes, please."
+        }
+      ],
+      "note": "Use polite expressions when granting permission, especially for clients or customers."
+    },
+    {
+      "ruleNumber": 2,
+      "title": "て-form + は いけません (Prohibition)",
+      "description": "Used to strictly prohibit actions. Always follow this structure when forbidding someone from doing something.",
+      "examples": [
+        {
+          "japanese": "ここ に くるま を とめて は いけません。",
+          "romaji": "Koko ni kuruma o tomete wa ikemasen.",
+          "english": "You must not park the car here.",
+          "answer": "はい、わかりました。",
+          "answerRomaji": "Hai, wakarimashita.",
+          "answerEnglish": "Yes, I understand."
+        },
+        {
+          "japanese": "おさけ を のんで は いけません。",
+          "romaji": "Osake o nonde wa ikemasen.",
+          "english": "You must not drink alcohol.",
+          "answer": "はい、わかりました。",
+          "answerRomaji": "Hai, wakarimashita.",
+          "answerEnglish": "Yes, I understand."
+        },
+        {
+          "japanese": "きょうしつ で はなして は いけません。",
+          "romaji": "Kyōshitsu de hanashite wa ikemasen.",
+          "english": "You must not talk in the classroom.",
+          "answer": "はい、わかりました。",
+          "answerRomaji": "Hai, wakarimashita.",
+          "answerEnglish": "Yes, I understand."
+        }
+      ],
+      "note": "Strictly follow this structure for prohibitions; always respond politely."
+    },
+    {
+      "ruleNumber": 3,
+      "title": "て-form + います (Present Continuous / Ongoing Actions)",
+      "description": "Used to describe ongoing actions, current states, habitual actions, or possessions. Always use て-form + います for actions that are happening now or states that continue.",
+      "examples": [
+        {
+          "japanese": "ミラーさん は けっこんして います。",
+          "romaji": "Mirā-san wa kekkon shite imasu.",
+          "english": "Mr. Miller is married.",
+          "answer": "はい、けっこんしています。",
+          "answerRomaji": "Hai, kekkon shite imasu.",
+          "answerEnglish": "Yes, he is married."
+        },
+        {
+          "japanese": "わたし は とうきょう に すんで います。",
+          "romaji": "Watashi wa Tōkyō ni sunde imasu.",
+          "english": "I live in Tokyo.",
+          "answer": "はい、すんでいます。",
+          "answerRomaji": "Hai, sunde imasu.",
+          "answerEnglish": "Yes, I live in Tokyo."
+        },
+        {
+          "japanese": "やまばさん は こうこう で えいご を おしえています。",
+          "romaji": "Yamaba-san wa kōkō de eigo o oshiete imasu.",
+          "english": "Mr. Yamaba is teaching English at high school.",
+          "answer": "はい、えいご を おしえています。",
+          "answerRomaji": "Hai, eigo o oshiete imasu.",
+          "answerEnglish": "Yes, he is teaching English."
+        },
+        {
+          "japanese": "かれ は IMC かいしゃ で はたらいて います。",
+          "romaji": "Kare wa IMC kaisha de hataraite imasu.",
+          "english": "He is working at IMC company.",
+          "answer": "はい、はたらいています。",
+          "answerRomaji": "Hai, hataraite imasu.",
+          "answerEnglish": "Yes, he is working."
+        },
+        {
+          "japanese": "たなかさん に しっていますか。",
+          "romaji": "Tanaka-san ni shitte imasu ka?",
+          "english": "Do you know Mr. Tanaka?",
+          "answer": "はい、しっています。",
+          "answerRomaji": "Hai, shitte imasu.",
+          "answerEnglish": "Yes, I know him."
+        },
+        {
+          "japanese": "きょう ミラーさん は くるま を もっています。",
+          "romaji": "Kyō Mirā-san wa kuruma o motte imasu.",
+          "english": "Today, Mr. Miller has a car.",
+          "answer": "はい、もっています。",
+          "answerRomaji": "Hai, motte imasu.",
+          "answerEnglish": "Yes, he has a car."
+        },
+        {
+          "japanese": "わたし は とうきょう だいがく で にほんご を べんきょうしています。",
+          "romaji": "Watashi wa Tōkyō daigaku de nihongo o benkyō shite imasu.",
+          "english": "I am studying Japanese at Tokyo University.",
+          "answer": "はい、べんきょうしています。",
+          "answerRomaji": "Hai, benkyō shite imasu.",
+          "answerEnglish": "Yes, I am studying Japanese."
+        }
+      ],
+      "note": "Use て-form + います to describe ongoing actions, current states, habitual actions, and possessions."
+    }
+  ]
+}
+
+]

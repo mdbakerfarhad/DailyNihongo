@@ -6,6 +6,7 @@ import Home from "./pages/Home";
 import Hiragana from "./pages/Hiragana";
 import Katakana from "./pages/Katakana";
 import Kanji from "./pages/Kanji";
+import Vocabulary from "./pages/Vocabulary";
 import Grammar from "./pages/Grammar";
 import Listening from "./pages/Listening";
 import Writing from "./pages/Writing";
@@ -45,6 +46,7 @@ const App: React.FC = () => {
           <Route path="/hiragana" element={<PageWrapper><Hiragana /></PageWrapper>} />
           <Route path="/katakana" element={<PageWrapper><Katakana /></PageWrapper>} />
           <Route path="/kanji" element={<PageWrapper><Kanji /></PageWrapper>} />
+          <Route path="/vocabulary" element={<PageWrapper><Vocabulary /></PageWrapper>} />
           <Route path="/grammar" element={<PageWrapper><Grammar /></PageWrapper>} />
           <Route path="/listening" element={<PageWrapper><Listening /></PageWrapper>} />
           <Route path="/writing" element={<PageWrapper><Writing /></PageWrapper>} />
