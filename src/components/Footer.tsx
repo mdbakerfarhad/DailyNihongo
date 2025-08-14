@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
       <Link
         to={to}
         onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-        className="flex items-center justify-center sm:justify-start gap-2 hover:text-[#FA4B00] transition duration-300"
+        className="flex items-center justify-start gap-2 hover:text-[#FA4B00] transition duration-300"
       >
         <FaChevronCircleRight aria-hidden="true" />
         {label}

@@ -1,6 +1,6 @@
 # DailyNihongo
 
-![DailyNihongo Logo](https://dailynihongo.netlify.app/logo.png)
+![DailyNihongo Logo](https://raw.githubusercontent.com/mdbakerfarhad/Baker/refs/heads/main/Baker/DailyNihongo.png)
 
 Practice Hiragana • Katakana • Kanji with DailyNihongo — your interactive daily Japanese language learning companion.
 
@@ -84,6 +84,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## ❤️ Author
 
 Md. Baker – Developer and language enthusiast.
-[GitHub Profile](https://github.com/mdbakerfarhad) | [Portfolio](https://mdbakerfarhad.com)
+[GitHub Profile](https://github.com/mdbakerfarhad) | [Portfolio](mdbaker.vercel.app)
 
 
