@@ -8,10 +8,10 @@ interface LinkBtnProps {
   onClick?: () => void;
 }
 
-const LinkBtn: React.FC<LinkBtnProps> = ({ to, children, onClick }) => (
+const LinkBtn: React.FC<LinkBtnProps> = ({ to, children}) => (
   <NavLink
     to={to}
-    onClick={onClick}
+    onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
     className={({ isActive }) =>
       `relative px-3 py-2 text-base font-medium text-gray-900 dark:text-white hover:text-[#FA4B00] dark:hover:text-[#FA4B00] transition-colors duration-200 ${
         isActive ? "text-[#FA4B00]" : ""
@@ -111,7 +111,7 @@ const Navbar: React.FC = () => {
     <nav className="sticky top-0 z-50 border-b border-gray-200 dark:border-[#072032] bg-white dark:bg-[#021222]">
       <div className="container mx-auto px-4 sm:px-5 py-3 flex items-center justify-between flex-nowrap">
         {/* Logo */}
-        <NavLink to="/" onClick={closeMenus} className="flex items-center gap-2 sm:gap-3 cursor-pointer select-none">
+        <NavLink to="/" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className="flex items-center gap-2 sm:gap-3 cursor-pointer select-none">
           <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full bg-red-700 flex items-center justify-center text-white font-bold shadow-lg text-lg sm:text-xl">
             日
           </div>
@@ -225,7 +225,7 @@ const Navbar: React.FC = () => {
           <nav className="flex flex-col space-y-2">
             <NavLink
               to="/"
-              onClick={closeMenus}
+              onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
               className={({ isActive }) =>
                 `block px-3 py-2 rounded text-base font-medium text-gray-700 dark:text-white hover:bg-[#FA4B00] hover:text-white ${
                   isActive ? "bg-[#FA4B00] text-white" : ""
